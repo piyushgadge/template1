@@ -1,0 +1,29 @@
+body{
+    background-image: url("images/1.png");
+}
+.container{
+   border: 5px inset rgb(222, 66, 222);
+
+}
+.row{
+   border: 5px inset rgb(76, 214, 134);
+}
+.col{
+    border: 5px inset rgb(156, 83, 11);
+    height: 350px;
+
+}
+.i1{background-image: url("images/1.jpg");
+    
+
+}
+.i2{background-image: url("images/2.jpg");
+    background-repeat: no-repeat;
+
+}
+.i3{background-image: url("images/3.jpg");
+
+}
+.blue{
+    background-color: blue;
+}
